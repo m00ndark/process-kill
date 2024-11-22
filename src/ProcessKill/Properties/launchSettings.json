@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessKill": {
+      "commandName": "Project",
+      "commandLineArgs": "--dry --stopservices 'all' --path 'vms-camera-station-pro\\.\\d\\\\runtime'"
+    }
+  }
+}
